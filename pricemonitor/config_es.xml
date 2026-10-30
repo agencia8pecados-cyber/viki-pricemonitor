@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pricemonitor</name>
+    <displayName><![CDATA[OKVIKI Price Monitor]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Monitoriza precios de la competencia en Google Shopping mediante SerpAPI con semaforo visual y ajuste de precios.]]></description>
+    <author><![CDATA[OKVIKI]]></author>
+    <author_uri><![CDATA[https://okviki.com]]></author_uri>
+    <tab><![CDATA[pricing_promotion]]></tab>
+	<confirmUninstall><![CDATA[¿Estas seguro de que quieres desinstalar Price Monitor? Se eliminaran todos los datos de escaneos.]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
